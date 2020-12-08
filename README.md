@@ -3,7 +3,9 @@ Web app that allows guests to predict salary and logged in users to create, add,
 
 ## Exploratory Data Analysis (EDA)
 
-![eda](https://user-images.githubusercontent.com/52568892/101504573-fd90a900-3938-11eb-8fec-8bd5aea55c49.png)
+![dataset description](https://user-images.githubusercontent.com/52568892/101504573-fd90a900-3938-11eb-8fec-8bd5aea55c49.png)
+
+![preview dataset](https://user-images.githubusercontent.com/52568892/101505343-dd151e80-3939-11eb-84fe-9eb2dfaf19fd.png)
 
 ## Log in
 
