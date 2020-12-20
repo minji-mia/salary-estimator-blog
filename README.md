@@ -1,5 +1,5 @@
-# Salary Estimator Blog App
-Web app that allows guests to predict salary and logged in users to create, add, modify, and search posts 
+# Salary Estimator Blog
+Web app which allows users to predict job salaries based on features like age, education, and occupation. Features include ability to display EDA, metrics, prediction results
 
 ## Exploratory Data Analysis (EDA)
 
