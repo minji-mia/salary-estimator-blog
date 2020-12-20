@@ -1,4 +1,4 @@
-# Salary Estimator Blog
+# Salary Estimator
 Web app which allows users to predict job salaries based on features like age, education, and occupation. Features include ability to display EDA, metrics, prediction results
 
 ## Exploratory Data Analysis (EDA)
@@ -14,17 +14,3 @@ Web app which allows users to predict job salaries based on features like age, e
 - Plot Correlation
 
 ![plot correlation](https://user-images.githubusercontent.com/52568892/101505713-45fc9680-393a-11eb-99fc-6e3ef14f9177.png)
-
-## Log in
-
-- Login sucessful
-
-![login demo](https://user-images.githubusercontent.com/52568892/101488974-e4323180-3925-11eb-95d2-dc1b15740f7e.gif)
-
-- Failed to login
-
-![login failed demo](https://user-images.githubusercontent.com/52568892/101488589-6706bc80-3925-11eb-8e64-967aa8c9df44.gif)
-
-## Sign up
-
-![Signup demo](https://user-images.githubusercontent.com/52568892/101487929-80f3cf80-3924-11eb-9170-67bad031d94c.gif)
